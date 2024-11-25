@@ -17,4 +17,4 @@ jobs:
           AWS_S3_BUCKET: elasticbeanstalk-eu-west-3-898320771394
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          SOURCE_DIR: ./main
+          SOURCE_DIR: ./web
