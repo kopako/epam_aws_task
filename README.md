@@ -55,7 +55,8 @@ Web directory will be synced with the content of your S3 bucket
 <img src="imgs/github_repo.png" width="600">  
 - Go to the “Actions” tab of the repository, click on <u>set up a workflow yourself</u>  
 <img src="imgs/github_actions.png" width="600">  
-Insert next content:
+Insert next content:  
+
 ```YAML
 name: Upload Website
 
